@@ -87,7 +87,7 @@
 <?php }?>
 
 <?php if(isset($_SESSION['userId']) && $_SESSION['userId']==1) { ?>
-                         <li><a href="https://mayurik.com/source-code/P5207/advance-laboratory-management-system-project" aria-expanded="false"><i class="fa fa-upload"></i><span class="hide-menu">Advance Version</span></a></li>
+                         <li><a href="https://juanchehin.github.io/chehin-ingenieria/" aria-expanded="false"><i class="fa fa-upload"></i><span class="hide-menu">Advance Version</span></a></li>
                         
 <?php }?>
 

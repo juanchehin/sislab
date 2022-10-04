@@ -17,9 +17,7 @@
 						<div class="col-md-3">
 							<img src="assets/myimages/profile.jpg" class="img-fluid">
 						</div>
-						<!--  Author : Mayuri K. 
- for any PHP, Codeignitor, Laravel OR Python work contact me at email mayuri.infospace@gmail.com  
- Visit website - www.mayurik.com -->
+						
 						<div class="col-md-5">
 							
 						</div>
@@ -39,6 +37,3 @@
 
 
 <?php include('./constant/layout/footer.php');?>
-<!--  Author Name- Mayuri K. 
- for any PHP, Codeignitor, Laravel OR Python work contact me at mayuri.infospace@gmail.com  
- Visit website - www.mayurik.com -->
