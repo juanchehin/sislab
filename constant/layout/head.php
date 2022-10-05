@@ -27,7 +27,7 @@
     }
 }
 </style>
-    <title>BLUEDNA PLUS</title>
+    <title>SISLAB</title>
 
     <link href="assets/css/lib/chartist/chartist.min.css" rel="stylesheet">
   <link href="assets/css/lib/owl.carousel.min.css" rel="stylesheet" />
