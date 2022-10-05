@@ -115,7 +115,7 @@ if($_POST) {
                     <div class="col-lg-4 ml-auto">
                         <div class="login-content">
                             <div class="login-form">
-                                <center><img src="./assets/uploadImage/Logo/logo.jpg" style="width: 100%;"></center><br>
+                                <center><img src="./assets/uploadImage/Logo/logo.jpg" style="width: 60%;"></center><br>
                                 <form action="<?php echo $_SERVER['PHP_SELF'] ?>" method="post" id="loginForm">
                                     <div class="form-group">
                                         <label lass="col-sm-3 control-label">Usuario</label>
@@ -152,7 +152,8 @@ if($_POST) {
     <script src="./assets/js/lib/jquery/jquery.min.js"></script>
     
     <script src="./assets/js/lib/bootstrap/js/popper.min.js"></script>
-    <script src="./assets/js/lib/bootstrap/js/bootstrap.min.js"></script>
+
+    <!-- <script src="./assets/js/lib/bootstrap/js/bootstrap.min.js"></script> -->
     
     <script src="./assets/js/jquery.slimscroll.js"></script>
     

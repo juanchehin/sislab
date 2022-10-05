@@ -3,8 +3,8 @@
 $localhost = "localhost";
 $username = "root";
 $password = "";
-$dbname = "diagnostic";
-$store_url = "http://localhost/php-inventory/";
+$dbname = "sislab";
+$store_url = "http://localhost/sislab/";
 // db connection
 $connect = new mysqli($localhost, $username, $password, $dbname);
 // check connection
